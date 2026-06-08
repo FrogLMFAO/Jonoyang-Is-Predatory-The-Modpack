@@ -6,4 +6,4 @@ There is a public sever (server ip is jonoyangispredatory.apexmc.co:1241) if you
 
 If the community wants to make stuff more funny and improve things yous are more than welcome to make suggestions through the issues tab and I will probably accept any decent pull requests too
 
-Quick legal notice: Everything I've stated is the truth and completely legal
+Quick legal notice: everything I've stated is the truth and completely legal
